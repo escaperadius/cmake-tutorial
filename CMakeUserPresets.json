@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "C:\\WarpCore\\cpp\\offworld\\cmake-tutorial\\build\\CMakePresets.json"
+    ]
+}

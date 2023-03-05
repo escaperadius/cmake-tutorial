@@ -9,4 +9,4 @@ conan install . --output-folder=build --build=missing
 cd build
 cmake .. -G "Visual Studio 16 2019" -DCMAKE_TOOLCHAIN_FILE=conan_toolchain.cmake
 cmake --build . --config Release
-Release\tutorial.exe
+Release\tutorial.exe 69
